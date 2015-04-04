@@ -1,2 +1,2 @@
 # handy
-Collection of config &amp; scripts
+Assorted config &amp; scripts, useful on development VMs
